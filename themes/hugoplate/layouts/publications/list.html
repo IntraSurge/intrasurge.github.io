@@ -1,0 +1,51 @@
+{{ define "main" }}
+<section class="publication-list">
+  <div class="container">
+    <h1 class="title">Publications</h1>
+    {{ range .Pages }}
+    <section class="publication">
+      <!-- Flexbox Container -->
+      <div class="columns is-vcentered" style="display: flex; flex-wrap: nowrap; align-items: center;">
+
+        <!-- Left: Image Box -->
+        <div class="column is-one-quarter" style="flex: 0 0 20%; max-width: 20%;">
+          <div class="box is-flex is-justify-content-center is-align-items-center" style="height: 100%;">
+            {{ if .Params.image }}
+              <figure class="image">
+                <img src="{{ .Params.image }}" alt="{{ .Title }}" style="max-height: 150px; max-width: 200px; object-fit: contain">
+              </figure>
+            {{ else }}
+              <!-- No image, nothing will be displayed -->
+            {{ end }}
+          </div>
+        </div>
+
+        <!-- Right: Text and Buttons Box -->
+        <div class="column" style="flex: 1;">
+          <div class="box">
+            <h4 class="title is-4">{{ .Title }}</h4>
+            <p class="authors">
+              {{ if .Params.authors }}
+                {{ delimit .Params.authors ", " }}
+              {{ else }}
+                No authors available
+              {{ end }}
+            </p>
+            <p class="venue">{{ .Params.venue }}</p>
+            <div class="buttons">
+              {{ range .Params.links }}
+              <a href="{{ .url }}" target="_blank" class="button is-dark is-small">
+                <span class="icon"><i class="{{ .icon }}"></i></span>
+                <span>{{ .name }}</span>
+              </a>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
