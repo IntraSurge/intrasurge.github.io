@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on IntraSurge</title>
-    <link>//localhost:1314/publications/</link>
+    <link>/publications/</link>
     <description>Recent content in Publications on IntraSurge</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jan 2025 00:00:00 -0500</lastBuildDate>
-    <atom:link href="//localhost:1314/publications/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Scaling up Self-Supervised Learning for Improved Surgical Foundation Models</title>
-      <link>//localhost:1314/publications/scaling_up/</link>
+      <link>/publications/scaling_up/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 -0500</pubDate>
-      <guid>//localhost:1314/publications/scaling_up/</guid>
+      <guid>/publications/scaling_up/</guid>
       <description></description>
     </item>
     <item>
       <title>Benchmarking Pretrained Attention-Based Models for Real-Time Recognition in Robot-Assisted Esophagectomy</title>
-      <link>//localhost:1314/publications/spieanatomy/</link>
+      <link>/publications/spieanatomy/</link>
       <pubDate>Wed, 16 Oct 2024 00:00:00 -0400</pubDate>
-      <guid>//localhost:1314/publications/spieanatomy/</guid>
+      <guid>/publications/spieanatomy/</guid>
       <description></description>
     </item>
     <item>
       <title>Benchmarking and Enhancing Surgical Phase Recognition Models for Robotic-Assisted Esophagectomy</title>
-      <link>//localhost:1314/publications/spiephase/</link>
+      <link>/publications/spiephase/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 -0400</pubDate>
-      <guid>//localhost:1314/publications/spiephase/</guid>
+      <guid>/publications/spiephase/</guid>
       <description></description>
     </item>
     <item>
       <title>Exploring the Effect of Dataset Diversity in Self-Supervised Learning for Surgical Computer Vision</title>
-      <link>//localhost:1314/publications/miccai2024/</link>
+      <link>/publications/miccai2024/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 -0400</pubDate>
-      <guid>//localhost:1314/publications/miccai2024/</guid>
+      <guid>/publications/miccai2024/</guid>
       <description></description>
     </item>
     <item>
       <title>Deep learning-based recognition of key anatomical structures during robot-assisted minimally invasive esophagectomy</title>
-      <link>//localhost:1314/publications/surgicalendo/</link>
+      <link>/publications/surgicalendo/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 -0400</pubDate>
-      <guid>//localhost:1314/publications/surgicalendo/</guid>
+      <guid>/publications/surgicalendo/</guid>
       <description></description>
     </item>
     <item>
       <title>Computer-Aided Anatomy Recognition in Intrathoracic and Abdominal Surgery: A Systematic Review</title>
-      <link>//localhost:1314/publications/surgicalendo_review/</link>
+      <link>/publications/surgicalendo_review/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 -0400</pubDate>
-      <guid>//localhost:1314/publications/surgicalendo_review/</guid>
+      <guid>/publications/surgicalendo_review/</guid>
       <description></description>
     </item>
   </channel>
