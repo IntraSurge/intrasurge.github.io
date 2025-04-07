@@ -419,16 +419,16 @@
  &lt;div class="gallery-item">
  
  &lt;a
- href="/images/orsi2025/20250301_123656689_iOS.jpg"
+ href="/images/gallery/01.jpg"
  style="display: block;"
  class="glightbox">
  &lt;img
  loading="lazy"
- src="/images/orsi2025/20250301_123656689_iOS_hu_2d905b5541116474.jpg"
+ src="/images/gallery/01_hu_3031d6d708d1f96f.jpg"
  class="img"
  style="margin: 0;"
- alt="20250301_123656689_iOS.jpg"
- onerror="this.onerror='null';this.src='\/images\/orsi2025\/20250301_123656689_iOS_hu_2d905b5541116474.jpg'" />
+ alt="01.jpg"
+ onerror="this.onerror='null';this.src='\/images\/gallery\/01_hu_3031d6d708d1f96f.jpg'" />
  &lt;/a>
  
  &lt;/div>
@@ -506,16 +506,16 @@
  &lt;div class="gallery-item">
  
  &lt;a
- href="/images/orsi2025/20250301_143441817_iOS.jpg"
+ href="/images/gallery/02.jpg"
  style="display: block;"
  class="glightbox">
  &lt;img
  loading="lazy"
- src="/images/orsi2025/20250301_143441817_iOS_hu_ffa1ab6b0d61a767.jpg"
+ src="/images/gallery/02_hu_d9c69f3e578326e1.jpg"
  class="img"
  style="margin: 0;"
- alt="20250301_143441817_iOS.jpg"
- onerror="this.onerror='null';this.src='\/images\/orsi2025\/20250301_143441817_iOS_hu_ffa1ab6b0d61a767.jpg'" />
+ alt="02.jpg"
+ onerror="this.onerror='null';this.src='\/images\/gallery\/02_hu_d9c69f3e578326e1.jpg'" />
  &lt;/a>
  
  &lt;/div>
@@ -593,16 +593,277 @@
  &lt;div class="gallery-item">
  
  &lt;a
- href="/images/orsi2025/9ac546e4-1f77-4d4b-9db1-a3186c47ffd9.jpg"
+ href="/images/gallery/03.jpg"
  style="display: block;"
  class="glightbox">
  &lt;img
  loading="lazy"
- src="/images/orsi2025/9ac546e4-1f77-4d4b-9db1-a3186c47ffd9_hu_84a8ff24e9c78e50.jpg"
+ src="/images/gallery/03_hu_36367cab0f396be1.jpg"
  class="img"
  style="margin: 0;"
- alt="9ac546e4-1f77-4d4b-9db1-a3186c47ffd9.jpg"
- onerror="this.onerror='null';this.src='\/images\/orsi2025\/9ac546e4-1f77-4d4b-9db1-a3186c47ffd9_hu_84a8ff24e9c78e50.jpg'" />
+ alt="03.jpg"
+ onerror="this.onerror='null';this.src='\/images\/gallery\/03_hu_36367cab0f396be1.jpg'" />
+ &lt;/a>
+ 
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+
+ &lt;div class="gallery-item">
+ 
+ &lt;a
+ href="/images/gallery/04.jpg"
+ style="display: block;"
+ class="glightbox">
+ &lt;img
+ loading="lazy"
+ src="/images/gallery/04_hu_7503a5bc8ecd8927.jpg"
+ class="img"
+ style="margin: 0;"
+ alt="04.jpg"
+ onerror="this.onerror='null';this.src='\/images\/gallery\/04_hu_7503a5bc8ecd8927.jpg'" />
+ &lt;/a>
+ 
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+
+ &lt;div class="gallery-item">
+ 
+ &lt;a
+ href="/images/gallery/05.jpg"
+ style="display: block;"
+ class="glightbox">
+ &lt;img
+ loading="lazy"
+ src="/images/gallery/05_hu_3e665283e089e49c.jpg"
+ class="img"
+ style="margin: 0;"
+ alt="05.jpg"
+ onerror="this.onerror='null';this.src='\/images\/gallery\/05_hu_3e665283e089e49c.jpg'" />
+ &lt;/a>
+ 
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+
+ &lt;div class="gallery-item">
+ 
+ &lt;a
+ href="/images/gallery/06.jpg"
+ style="display: block;"
+ class="glightbox">
+ &lt;img
+ loading="lazy"
+ src="/images/gallery/06_hu_3031d6d708d1f96f.jpg"
+ class="img"
+ style="margin: 0;"
+ alt="06.jpg"
+ onerror="this.onerror='null';this.src='\/images\/gallery\/06_hu_3031d6d708d1f96f.jpg'" />
  &lt;/a>
  
  &lt;/div>
