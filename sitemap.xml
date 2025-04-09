@@ -2,66 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/authors/jelle/</loc>
+    <loc>https://intrasurge.github.io/authors/jelle/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/marcel/</loc>
+    <loc>https://intrasurge.github.io/authors/marcel/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/yasmina/</loc>
+    <loc>https://intrasurge.github.io/authors/yasmina/</loc>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>https://intrasurge.github.io/</loc>
     <lastmod>2025-03-02T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/orsi2025/</loc>
+    <loc>https://intrasurge.github.io/blog/orsi2025/</loc>
     <lastmod>2025-03-02T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/</loc>
+    <loc>https://intrasurge.github.io/blog/</loc>
     <lastmod>2025-03-02T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/</loc>
+    <loc>https://intrasurge.github.io/publications/</loc>
     <lastmod>2025-01-15T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/scaling_up/</loc>
+    <loc>https://intrasurge.github.io/publications/scaling_up/</loc>
     <lastmod>2025-01-15T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/spieanatomy/</loc>
+    <loc>https://intrasurge.github.io/publications/spieanatomy/</loc>
     <lastmod>2024-10-16T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/spiephase/</loc>
+    <loc>https://intrasurge.github.io/publications/spiephase/</loc>
     <lastmod>2024-10-15T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/miccai2024/</loc>
+    <loc>https://intrasurge.github.io/publications/miccai2024/</loc>
     <lastmod>2024-10-01T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/surgicalendo/</loc>
+    <loc>https://intrasurge.github.io/publications/surgicalendo/</loc>
     <lastmod>2023-07-01T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/publications/surgicalendo_review/</loc>
+    <loc>https://intrasurge.github.io/publications/surgicalendo_review/</loc>
     <lastmod>2022-07-01T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>https://intrasurge.github.io/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>https://intrasurge.github.io/contact/</loc>
   </url><url>
-    <loc>//localhost:1313/elements/</loc>
+    <loc>https://intrasurge.github.io/elements/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/gino/</loc>
+    <loc>https://intrasurge.github.io/authors/gino/</loc>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>https://intrasurge.github.io/about/</loc>
   </url><url>
-    <loc>//localhost:1313/pages/</loc>
+    <loc>https://intrasurge.github.io/pages/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/</loc>
+    <loc>https://intrasurge.github.io/authors/</loc>
   </url><url>
-    <loc>//localhost:1313/privacy-policy/</loc>
+    <loc>https://intrasurge.github.io/privacy-policy/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/romy/</loc>
+    <loc>https://intrasurge.github.io/authors/romy/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/ronald/</loc>
+    <loc>https://intrasurge.github.io/authors/ronald/</loc>
   </url><url>
-    <loc>//localhost:1313/sections/</loc>
+    <loc>https://intrasurge.github.io/sections/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>https://intrasurge.github.io/tags/</loc>
   </url><url>
-    <loc>//localhost:1313/authors/yipingli/</loc>
+    <loc>https://intrasurge.github.io/authors/yipingli/</loc>
   </url>
 </urlset>
