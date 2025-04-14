@@ -53,7 +53,18 @@
   "searchKeyword": "",
   "categories": "",
   "tags": "",
-  "content":" "},{
+  "content":" We had the pleasure of attending the Surgical AI Days 2025 in Belgium — a three-day event that brought together clinicians, researchers, and industry experts working at the intersection of surgery and artificial intelligence. The event featured insightful keynotes, hands-on workshops, and discussions that ranged from surgical robotics and computer vision to ethics and implementation in clinical settings. It was inspiring to see so many initiatives aimed at translating cutting-edge AI into tools that support surgeons and improve patient care.\nAs part of the academic track, we were invited to give a talk highlighting our ongoing research. We’re grateful to the organizers for creating such an engaging and forward-thinking event, and to Orsi Academy for being such a welcoming and inspiring venue. We left with new ideas, new collaborations, and renewed excitement for the work ahead.\nLooking forward to continuing the conversation and contributing to this growing community!\n"},{
+  "section": "Blog",
+  "slug": "/blog/spie2025/",
+  "title": "SPIE Medical Imaging 2025 conference",
+  "description": "this is meta description",
+  "date": "February 19, 2025",
+  "image": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n  \n\n  \n  \n    \n      \n    \n\n\n    \n    \n\n\n    \n    \n      \n      \n    \n    \n    \n\n\n    \n    \n      \n      \n        \n        \n        \n        \n        \n        \n\n\n        \n        \n\n\n        \u003cimg\n          \n            src=\"/images/spie2025/group_hu_aeaf5c8d096f24cc.webp\" loading=\"lazy\" decoding=\"async\"\n          \n\n          alt=\"\"\n          class=\"  img\"\n          width=\"420\"\n          height=\"280\"\n          onerror=\"this.onerror='null';this.src='\\/images\\/spie2025\\/group_hu_38d39d134b8d98f4.jpg';\" /\u003e\n\n        \n      \n      \n    \n    \n  \n\n\n  \n",
+  "imageSM": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n  \n\n  \n  \n    \n      \n    \n\n\n    \n    \n\n\n    \n    \n      \n      \n    \n    \n    \n\n\n    \n    \n      \n      \n        \n        \n        \n        \n        \n        \n          \n          \n          \n          \n        \n\n\n        \n        \n\n\n        \u003cimg\n          \n            src=\"/images/spie2025/group_hu_ef0117b043f05a38.webp\" loading=\"lazy\" decoding=\"async\"\n          \n\n          alt=\"\"\n          class=\"  img\"\n          width=\"100\"\n          height=\"100\"\n          onerror=\"this.onerror='null';this.src='\\/images\\/spie2025\\/group_hu_801f797179ba364b.jpg';\" /\u003e\n\n        \n      \n      \n    \n    \n  \n\n\n  \n",
+  "searchKeyword": "",
+  "categories": "",
+  "tags": "",
+  "content":" The IntraSurge team had an exciting presence at SPIE Medical Imaging 2025, where Ronald de Jong presented two of our latest research projects.\nWe’re proud to share that both works received prestigious awards:\nBenchmarking and Enhancing Surgical Phase Recognition Models for Robotic-Assisted Esophagectomy 2025 Robert F. Wagner All-Conference Best Student Paper Award (1 out of 85 submissions)\nBenchmarking Pretrained Attention-Based Models for Real-Time Recognition in Robot-Assisted Esophagectomy Medtronic Travel Award\nThese awards are a great recognition of the team\u0026rsquo;s ongoing efforts to push the boundaries of surgical AI. We\u0026rsquo;re honored to contribute to the SPIE 2025 community and excited to keep advancing research in real-time surgical understanding.\n"},{
   "section": "Publications",
   "slug": "/publications/scaling_up/",
   "title": "Scaling up Self-Supervised Learning for Improved Surgical Foundation Models",
