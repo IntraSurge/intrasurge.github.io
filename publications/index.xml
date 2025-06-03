@@ -6,8 +6,15 @@
     <description>Recent content in Publications on IntraSurge</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 00:00:00 -0400</lastBuildDate>
     <atom:link href="https://intrasurge.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SemiVT-Surge: Semi-Supervised Video Transformer for Surgical Phase Recognition</title>
+      <link>https://intrasurge.github.io/publications/miccai2025/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 -0400</pubDate>
+      <guid>https://intrasurge.github.io/publications/miccai2025/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Scaling up Self-Supervised Learning for Improved Surgical Foundation Models</title>
       <link>https://intrasurge.github.io/publications/scaling_up/</link>
